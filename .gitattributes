@@ -1,0 +1,7 @@
+# Preserve source snapshot bytes so manifest hashes survive clone and checkout.
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
+SKILL.md -text
+references/** -text
+agents/openai.yaml -text

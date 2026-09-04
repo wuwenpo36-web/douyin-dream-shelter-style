@@ -1,0 +1,43 @@
+{
+  "skill": "douyin-dream-shelter-style",
+  "snapshot_utc": "2026-09-04T23:13:51.4741231+00:00",
+  "description": "Unmodified snapshot of every file in the source skill directory. README.md and docs/ are repository reading aids, not original skill files.",
+  "file_count": 7,
+  "files": [
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 392,
+      "sha256": "207f0beb086567482e4083a56cc2154829938fa1e076667b99d8f2b55f57f542"
+    },
+    {
+      "path": "references/brand-integration.md",
+      "bytes": 7781,
+      "sha256": "8be2a2d40c2add129f4c1e3ee0c690bb85ced21ce1b225a6afd23a713a9efb20"
+    },
+    {
+      "path": "references/case-library-and-failure-modes.md",
+      "bytes": 14188,
+      "sha256": "bcf95091d158687e2110c5db94cac01f44bf05b2147920009b92c00784777a46"
+    },
+    {
+      "path": "references/gpt-image-prompt-contract.md",
+      "bytes": 6844,
+      "sha256": "7912fcb5ac4bd91dcb46f351a47508157d89fd73a61670cf622628e963e8fd92"
+    },
+    {
+      "path": "references/interiors-and-image-edits.md",
+      "bytes": 7530,
+      "sha256": "73fb3e80adc4efc18a27cb70045c9f099c6bf471b011f33acb254cf76936631f"
+    },
+    {
+      "path": "references/pov-disaster-transformation.md",
+      "bytes": 11522,
+      "sha256": "cb189533af0746e6525a42deedf15a4a940fa5e6c16d948a8497751a7eefd17a"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 15359,
+      "sha256": "b0cc6c094f2ca394641add4b9d28ada7058ece609265a0efb5809b39d831113d"
+    }
+  ]
+}

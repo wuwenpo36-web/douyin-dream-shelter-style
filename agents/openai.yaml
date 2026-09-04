@@ -1,0 +1,8 @@
+interface:
+  display_name: "Douyin Dream Shelter Style"
+  short_description: "Realistic disaster hooks and themed shelter worlds"
+  brand_color: "#FBBF24"
+  default_prompt: "Use $douyin-dream-shelter-style to create a photorealistic, physically coherent Dream Shelter concept, prompt, or branded multi-space episode in my established Douyin style."
+
+policy:
+  allow_implicit_invocation: true
